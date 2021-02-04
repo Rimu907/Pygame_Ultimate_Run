@@ -1,0 +1,9 @@
+Click "Open.py" to open the game.
+The game is a parkour game, divided into four levels from easy to ultimate. 
+Each level involves avoiding monsters and collecting gems. 
+The first three levels are unlocked, and the ultimate level will be unlocked after achieving the condition (Get 100 red, 100 green and 100 orange gems respectively). 
+Warrior's sister will be resurrected after collecting 400 gems in total on each level. 
+As the same player plays, the number of gems he got would be displayed at the start_screen!
+
+Github group code link
+https://github.com/DFVC9914/COMP4008_Pygame_Project
