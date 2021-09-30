@@ -14,7 +14,7 @@ Gem_easy = 0                                                                   #
 Gem_normal = 0
 Gem_hard = 0
 Gem_ultimate = 0 
-Restrict = 5                                                                   # Set amount for unlock ultimate and congratulation
+Restrict = 1                                                                   # Set amount for unlock ultimate and congratulation
 def Modes_Screen():
     global screen,font,Best_Score
     pygame.init()
